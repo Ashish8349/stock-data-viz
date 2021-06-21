@@ -2,5 +2,5 @@
 
 Stock peformance and revenue analysis
 
-Extracted revenue data using BeautifulSoup and stock data using yfinance to a pandas dataframe.
+Extracted revenue data using BeautifulSoup and stock data using yfinance to a pandas dataframe.<br>
 Visulized the data to identify patterns or trends.
